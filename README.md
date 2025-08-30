@@ -33,3 +33,9 @@ Jupyter Notebook was used for initial experimentation and analysis. The final sc
 
 - Version Control:
 Git and GitHub were used to manage code versions and ensure reproducibility.
+
+# 📊 What You Get
+	- A CSV file (clustered_locations.csv) showing each image and its cluster.
+	- An interactive map (geotagged_clusters_map.html) showing clusters of photos.
+	- Red dots = noise/outliers
+	- Colored dots = clustered photo locations
